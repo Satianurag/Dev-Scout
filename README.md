@@ -1,6 +1,6 @@
-# Dev Finder
+# Dev Scout
 
-Dev Finder is a web application that allows developers to create and join coding rooms, collaborate on projects, and find like-minded individuals to work with.
+Dev Scout is a web application that allows developers to create and join coding rooms, collaborate on projects, and find like-minded individuals to work with.
 
 ## Features
 
@@ -35,7 +35,7 @@ Dev Finder is a web application that allows developers to create and join coding
 
 1. Clone the repository:
    ```
-   git clone https://github.com/Satianurag/dev-finder.git
+   git clone https://github.com/Satianurag/Dev-Scout.git
    cd dev-finder
    ```
 

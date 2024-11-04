@@ -24,7 +24,7 @@ export default function LandingPage() {
               src="/icon.png"
               width="200"
               height="200"
-              alt="dev finder logo"
+              alt="dev scout logo"
             />
 
             <h1 className="text-4xl font-bold tracking-tight text-gray-900 dark:text-white sm:text-6xl">
